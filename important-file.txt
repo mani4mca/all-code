@@ -1,0 +1,555 @@
+mum-marketing
+
+boKRy7eEONTs3CU
+
+
+scott-construction
+FQ2B5ifWyWXkqsc
+
+
+
+ixChBYyFSYUJXJY
+
+cullen-construction.com
+
+https://www.cullencontractor.com
+control-source
+	}C'68Y&6%@t~Zb2
+	https://www.controlsourceintl.com/ads-secure-login/
+
+-----------------------------
+
+https://flycontrolus.com/ads-secure-login/
+
+fly-control
+
+2~jGDyj's8=_UCY
+
+---------------------------------------
+https://mosquitocontrolequipment.com/ads-secure-login/
+
+mosquito-control
+
+;3E49w^{Wvz%wxT
+
+
+-----------------------------------------
+
+link change js
+
+
+<script>
+
+document.addEventListener('DOMContentLoaded', function() {
+        var anchor = document.getElementById('at_0_textid-nav-cta-btn');
+        anchor.href = 'https://www.preferredrolloffservices.com/contact_us/';
+    });
+    </script>
+
+
+image rotate
+
+
+#my_img{
+    width: 200px;
+    height: 200px;
+z-index:999;
+    animation: myfirst 8s linear 0.5s infinite;
+}
+
+@keyframes myfirst {
+
+
+
+    0%{
+        transform: rotate(0deg);
+    }
+100%{
+    transform: rotate(360deg);
+
+}
+    
+
+
+}
+
+-------------------------------
+
+front page code removal :
+ define( 'WP_DEBUG_DISPLAY', false );
+define( 'WP_DEBUG_LOG', true );
+
+
+
+
+------------------------------------------
+https://jsfiddle.net/ro5wvchm/1/
+
+
+--------------------Alt code : liquide
+
+<script>
+
+{% if image.alt == blank %}
+    {% assign alt_text = "platinumsonsews" | escape %}
+    
+ {% endif %}
+  <img src="{{ image.src | img_url }}" alt="{{ alt_text }}" />
+
+</script>
+----------------------
+
+K*8p]5eqISE3
+empdb
+
+--------------------redirect code : 
+
+<script>
+  if (window.location.pathname === '/index') {
+    window.location.href = '/';
+  }
+  if (window.location.pathname === '/index.html') {
+    window.location.href = '/';
+  }
+  if (window.location.pathname === '/wix') {
+    window.location.href = ' ';
+  }
+
+  if (window.location.pathname === '/wix.php') {
+    window.location.href = ' ';
+  }
+</script>
+
+--------------------------------------------------------------------------------
+
+Upper Lower Case : 
+
+<script>
+var currentUrl = window.location.href;
+var lowercaseUrl = currentUrl.toLowerCase();
+if (currentUrl !== lowercaseUrl) { 
+  window.location.href = lowercaseUrl;
+}
+</script>
+
+-----------------------------------------------------------------------
+
+
+
+
+<!-- no follow link -->
+<script>
+function myFunction() {
+var x = document.getElementsByTagName("a");
+var i;
+for (i = 0; i < x.length; i++) {
+if (location.hostname!=x[i].hostname){
+x[i].rel = "nofollow";
+x[i].target = "_blank";
+x[i].title = "Click to open in new window";
+}}}
+mft=setTimeout("myFunction()",0);
+function LoadEvent(func){
+var oldonload = window.onload;
+if (typeof window.onload != 'function'){
+window.onload = func;
+}
+else{
+window.onload = function()
+{
+if(oldonload)
+{oldonload();}
+func();}}}
+LoadEvent(function(){
+myFunction();
+});
+</script>
+
+
+
+Copyright ©2024 PrintPens
+
+
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------------
+
+Multiple Slash Url Code 
+
+<script>window.onload = function() {   var url = window.location.href; 
+ var normalizedUrl = url.replace(/([^:]\/)\/+/g, "$1"); 
+ if (normalizedUrl !== url)
+ {    
+window.location.href = normalizedUrl; 
+ }};
+
+</script>
+-------------------------------------------------------------------------------
+Internal Url Redirect Code
+
+<script>
+
+ if canonical_url == 'https://margorelectric.ca/'
+ { 
+function Redirect()
+ { window.location.replace("https://www.margorelectric.ca/");  
+  }} 
+  </script>
+
+----------------------------------------------------------------------------------------------------------
+https://youtube.com/watch?v=DLA_64yz8Ss
+
+
+
+rotate img
+
+
+
+Class = tm-animation-spin
+
+webkit-animation: tm-animation-spin 10s linear infinite; */
+    -moz-animation: tm-animation-spin 10s linear infinite;
+    /* animation: tm-animation-spin 10s linear infinite;
+-------------------------------------------------------------------------------------------------------
+https://geopeeker.com/
+
+theme.liquide
+
+redirection code shopify
+
+
+
+
+
+
+sitemap-issue-fix;
+
+https://www.autocorecustoms.com/blog
+<link rel="canical" href="https://www.autocorecustoms.com"/>
+
+.main-menu .navbar-nav > li > a {
+-------------------------------------------------------------------
+
+Redirect : 
+
+    <script>
+  if (window.location.pathname === '/index') {
+    window.location.href = '/';
+  }
+  if (window.location.pathname === '/index.html') {
+    window.location.href = '/';
+  }
+  if (window.location.pathname === '/shop') {
+    window.location.href = '/';
+  }    
+</script>
+
+
+
+
+
+-------------------------------------------------------------------
+
+
+<?php bloginfo('name');?><?php wp_title()?><?php bloginfo('description');?>
+
+
+
+-------------------------------------------------------------------
+Redirect HTTP to HTTPS in WordPress
+
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+---------------------------------------------------------------
+
+There are two functions  of HTML to WordPress.
+echo get_template_directory_uri();
+blog info (‘template_directory’);
+
+
+
+--------------------------------------------------------------------------------
+
+.vectorGraphics
+
+{
+    filter: drop-shadow(0 40px 10px rgb(0, 0, 0, 0.8));
+    animation: vectorAnimation 1s infinite ease-in-out alternate;
+}
+@keyframes vectorAnimation {
+    to{
+        transform: translateY(-10px);
+    }
+    
+}
+
+
+
+
+
+-------------------------------------------------------------------------------------
+<?php
+// www.youtube.com/@learn2smart/ || Please Support & Subscribe our Youtube Channel || 
+function ___wejns_wp_whitespace_fix($input) {
+    $allowed = false;
+    $found = false;
+    foreach (headers_list() as $header) {
+        if (preg_match("/^content-type:\\s+(text\\/|application\\/((xhtml|atom|rss)\\+xml|xml))/i", $header)) {
+            $allowed = true;
+        }
+        if (preg_match("/^content-type:\\s+/i", $header)) {
+            $found = true;
+        }
+    }
+    if ($allowed || !$found) {
+        return preg_replace("/\\A\\s*/m", "", $input);
+    } else {
+        return $input;
+    }
+}
+ob_start("___wejns_wp_whitespace_fix");
+?>
+
+
+---------------------------------------------------------------------------------
+
+Social icon link
+
+<div id="fixed-social">
+	<div class="wh-widget-left">
+		<a href="https://www.facebook.com/pages/Granbury-EyeCare/103386433055734" rel="nofollow" class="fixed-facebook" target="_blank">
+			<i class="fa fa-facebook"></i>
+		</a>
+	</div>
+</div>
+
+
+CSS...
+
+#fixed-social {
+    position: fixed;
+    top: 50%;
+    z-index: 99999;
+    right: 0;
+    transform: translateY(-50%);
+}
+#fixed-social a {
+    color: #fff;
+    display: block;
+    height: 40px;
+    position: relative;
+    text-align: center;
+    line-height: 40px;
+    width: 60px;
+    margin-bottom: 1px;
+    z-index: 2;
+    font-size: 18px;
+    right: -15px;
+    padding-right: 15px;
+}
+.fixed-facebook span, .fixed-facebook {
+    background-color: #3b5998;
+}
+#fixed-social a i {
+    font-size: 20px;
+    line-height: 40px;
+}
+
+#6fab50
+
+--------------------------------------------------------------------
+external links shopify :
+
+
+
+
+
+
+
+---------------------------------------------------------------------------------------
+
+Shopify speed app:
+
+1- Thunder page Speed Optimizer
+
+
+Font:
+1- Font name: SofiaPro
+2- Font name: Dosis, sans-serif
+3- Font Name:Titillium Web
+4-  "DM Sans", sans-serif
+5- Outfit, sans-serif
+6- Josefin Sans 
+5- lexend
+6 - proxima-n-w01-reg, proxima-n-w05-reg, sans-serif
+7 - futura-lt-w01-book
+8- helvetica-w01-light
+9 - HK Grotesk
+JS Code 
+Font name: Jost, sans-serif
+9 - jost
+10-Urbanist, sans-serif
+
+--------------------------------------------------------------------
+
+Copyright Code
+
+<script>
+  document.querySelector("#copyright").innerHTML=`Copyright ${new Date().getFullYear()} Pinnacle 
+  Aluminium & Glass - All rights reserved`
+</script>
+
+
+--------------------------------------------------------------------
+
+
+
+Alt Img Code
+
+
+cons images = document.querySelectorAll('img');
+
+images.forEach((image) => {
+  let alt = image.getAttribute('alt');
+  if (!alt) {
+    image.setAttribute('alt', 'ifixdeepcomputer');
+  }
+});
+
+
+
+----------------------------------------------------------------
+
+No-follow Links
+
+function myFunction() {
+var x = document.getElementsByTagName("a");
+var i;
+for (i = 0; i < x.length; i++) {
+if (location.hostname!=x[i].hostname){
+x[i].rel = "nofollow";
+x[i].target = "_blank";
+x[i].title = "Click to open in new window";
+}}}
+mft=setTimeout("myFunction()",0);
+function LoadEvent(func){
+var oldonload = window.onload;
+if (typeof window.onload != 'function'){
+window.onload = func;
+}
+else{
+window.onload = function()
+{
+if(oldonload)
+{oldonload();}
+func();}}}
+LoadEvent(function(){
+myFunction();
+});
+
+-----------------------------------------------------------
+
+server signature
+
+# Disable server signature #
+ServerSignature Off
+
+----------------------
+# START Disable server signature #
+    ServerSignature Off
+# END Disable server signature #
+
+----------------------------------------------------------
+https://www.youtube.com/watch?v=nAX2tya7OZQ  (Sitemap video)
+
+https://www.youtube.com/watch?v=OGebmQqh-ug  (Shopify Speed)
+
+--------------------------------------------------------------
+
+Redirect Code.
+
+RedirectMatch 301 ^/adsrole/ /adsrole.pdf
+
+ErrorDocument 404 /index.php
+
+----------------------------------------------------------
+
+Redirect code wordpress
+
+function redirect_404() {
+    if (is_404()) {
+        wp_redirect('https://driftoffgrid.com/', 301);
+        exit;
+    }
+}
+add_action('template_redirect', 'redirect_404');
+
+---------------------------------------------------------------------------------------------------------
+http to https redirect https://margorelectric.ca to https://www.margorelectric.ca/
+
+<ifModule mod_rewrite.c>
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+
+</IfModule>
+
+ if canonical_url == 'https://www.margorelectric.ca/'
+ { 
+function Redirect()
+ { window.location.replace("https://www.margorelectric.ca/");  
+  }} 
+  </script>
+
+---------------------------------------------------------------
+
+
+Non www to www
+
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^margorelectric.ca
+RewriteRule (.*) https://www.margorelectric.ca/$1 [R=301,L]
+
+
+---------------------------------------------------------------------------------------------------------
+
+loop
+var let cont
+premited data type
+string
+conditionls
+for each loop
+aroow funtion 
+lexical function
+Events
+handling Events
+How to Lexical this Works
+Normal Function
+spred opratoor
+d stracring
+name import 
+default import
+call back system 
+map filter reduce
+ascronus function
+socket
+web rtc
+
+
+
+
+
+
+
+
+
+
